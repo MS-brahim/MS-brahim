@@ -16,8 +16,6 @@
 :smiley: Git
 :relaxed: NODEJS
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ms-brahim)](https://github.com/ms-brahim/github-readme-stats)
-
 
 <!--
 **MS-brahim/MS-brahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
