@@ -10,13 +10,7 @@
 ## ⚡ Technologies
 
 
-<!-- ![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) --!>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
