@@ -17,6 +17,7 @@
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Vue](https://img.shields.io/badge/-Vue-430098?style=flat-square&logo=vue)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-430098?style=flat-square&logo=sass)
