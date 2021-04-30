@@ -18,7 +18,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-430098?style=flat-square&logo=Vue.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
