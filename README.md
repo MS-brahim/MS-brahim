@@ -9,7 +9,7 @@
 
 
 
-## ⚡ Technologies
+## ⚡ Technologies and frameworks
 
 
 
@@ -31,6 +31,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-git-563D7C?style=flat-square&logo=git)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Postman](https://img.shields.io/badge/-Postman-430098?style=flat-square&logo=postman)
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
