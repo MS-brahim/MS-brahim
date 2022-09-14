@@ -15,8 +15,6 @@
 
 ![Php](https://img.shields.io/badge/-php-563D7C?style=flat-square&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-laravel-red?style=flat-square&logo=LARAVEL)
-![JavaScript](https://img.shields.io/badge/javascript-%23DD0031.svg?style=for-the-badge&logo=javaScript&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yollow?style=flat-square&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=MySQL)
