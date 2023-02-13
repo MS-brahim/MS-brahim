@@ -1,7 +1,8 @@
 ## Hi there 👋 You are welcome to my Github
 
 
-- 🔭 I’m currently working on <img src="https://live4us.com/wp-content/uploads/2022/03/Logo-L4U.svg" width="8%">
+- 🔭 I’m Full Stack développer, i create adaptable and responsive websites using simplicity, clarity, and functionality where every bit
+I'm very driven and have a great passion for web development I code beautifully simple things, and I love what I do❣️.
 
 
 <!-- - 🔭 I’m currently working on PRF && PP -->
