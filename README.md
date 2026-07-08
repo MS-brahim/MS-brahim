@@ -1,59 +1,111 @@
-## Hi there 👋 You are welcome to my Github
+<h1 align="center">Hi 👋, I'm Brahim MOUISSI</h1>
+<h3 align="center">Full-Stack Developer | TypeScript • Next.js • Node.js • Laravel</h3>
 
+<p align="center">
+Building scalable SaaS, CRM, AI-powered, and e-commerce applications.
+</p>
 
-- 🔭 I’m Full Stack développer, i create adaptable and responsive websites using simplicity, clarity, and functionality where every bit
-I'm very driven and have a great passion for web development I code beautifully simple things, and I love what I do❣️.
+---
 
+## 🚀 About Me
 
-<!-- - 🔭 I’m currently working on PRF && PP -->
-<!-- - 🌱 I’m currently learning MERN Stack -->
+I'm a Full-Stack Developer with **5 years of experience** building modern web applications using the JavaScript/TypeScript ecosystem and Laravel.
 
+I enjoy designing scalable backend architectures, integrating third-party APIs, and creating products that solve real business problems.
 
+- 💼 5+ years of professional experience
+- 🌍 Based in Morocco
+- 💻 Open to Remote & International opportunities
+- 📧 **brahim7khalil@gmail.com**
 
-## ⚡ Technologies and frameworks
+---
 
+## 🛠 Tech Stack
 
+### Frontend
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Material UI
 
-![Php](https://img.shields.io/badge/-php-563D7C?style=flat-square&logo=PHP)
-![Laravel](https://img.shields.io/badge/-laravel-red?style=flat-square&logo=LARAVEL)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yollow?style=flat-square&logo=javascript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-563D7C?style=flat-square&logo=PostgreSQL)
-![Express](https://img.shields.io/badge/-Express-blue?style=flat-square&logo=Express)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-430098?style=flat-square&logo=Vue.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-430098?style=flat-square&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Git](https://img.shields.io/badge/-git-563D7C?style=flat-square&logo=git)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Postman](https://img.shields.io/badge/-Postman-430098?style=flat-square&logo=postman)
+### Backend
+- Node.js
+- Fastify
+- Express.js
+- Laravel
+- RESTful APIs
+- JWT & OAuth
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+### Databases
+- PostgreSQL (Prisma)
+- MySQL
+- MongoDB
+- Redis
 
-<!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)--!>
+### DevOps
+- Docker
+- Git
+- Linux
 
+### AI & Automation
+- OpenAI API
+- AI Agents
+- n8n
+- Zapier
 
-<!--
-**MS-brahim/MS-brahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Featured Projects
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ms-brahim)](https://github.com/ms-brahim/github-readme-stats)
+### 🎓 Training Center CRM & E-learning Platform
+- CRM for training centers
+- SCORM Cloud integration
+- CKEditor
+- Attendance management
+- Contract management
+- API integrations
 
+---
 
+### 🛒 Multi-tenant E-commerce SaaS
+Laravel • Redis
 
+- Multi-store architecture
+- REST APIs
+- Storefront customization
+- Performance optimization
 
+---
+
+### 🤖 AI Automation Platform
+
+- OpenAI API
+- Workflow Automation
+- CRM synchronization
+- Email automation
+
+---
+
+## 📈 Currently Learning
+
+- System Design
+- Kubernetes
+- AWS
+- Microservices
+
+---
+
+## 🤝 Connect with me
+
+- 🌐 Portfolio: *(add your portfolio)*
+- 💼 LinkedIn: *(add your LinkedIn)*
+- 📧 Email: **brahim7khalil@gmail.com**
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MS-brahim&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-brahim&layout=compact)
+
+![Visitors](https://komarev.com/ghpvc/?username=MS-brahim)
