@@ -98,14 +98,6 @@ Laravel • Redis
 
 ## 🤝 Connect with me
 
-- 🌐 Portfolio: *(add your portfolio)*
-- 💼 LinkedIn: *(add your LinkedIn)*
+- 🌐 Portfolio: *https://www.mouissi.pro/*
+- 💼 LinkedIn: *https://www.linkedin.com/in/brahimouissi/*
 - 📧 Email: **brahim7khalil@gmail.com**
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MS-brahim&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-brahim&layout=compact)
-
-![Visitors](https://komarev.com/ghpvc/?username=MS-brahim)
