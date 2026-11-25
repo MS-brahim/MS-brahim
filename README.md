@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer • SaaS, Backend Architecture & AI Automation</h3>
 
 <p align="center">
-  I build high-performance SaaS platforms, multi-tenant backends, and AI-powered business workflows using <strong>TypeScript, Next.js, Node.js, and Laravel</strong>.
+  I build high-performance SaaS platforms, multi-tenant backends, open-source developer tools, and AI-powered business workflows using <strong>TypeScript, Next.js, Node.js, and Laravel</strong>.
 </p>
 
 <p align="center">
@@ -23,29 +23,39 @@
 
 - **End-to-End SaaS Delivery:** 5+ years taking B2B and B2C products from database design to production deployment.
 - **Scalable Backend & API Design:** Designing multi-tenant architectures, secure authentication (JWT/OAuth), and third-party API integrations with Node.js (Fastify/Express), Laravel, and PostgreSQL.
-- **Practical AI & Workflow Automation:** Building reliable AI agents, RAG pipelines, and automated business workflows (OpenAI API, n8n) that reduce manual operations.
+- **Practical AI & Workflow Automation:** Building reliable AI agents, data pipelines, and automated business workflows (OpenAI API, n8n) that reduce manual operations.
 
 ---
 
-### 🚀 Featured Production Projects
+### 🚀 Open-Source & Personal Projects (Public Code)
 
-#### 🎓 Multi-Center Training CRM & LMS Platform
-`TypeScript` • `React` • `Node.js` • `PostgreSQL` • `SCORM Cloud`
-- **Problem:** Training organizations struggled with fragmented student tracking, manual contract generation, and disconnected e-learning modules.
-- **Solution:** Engineered a unified CRM and learning management system featuring SCORM Cloud course playback, automated contract workflows, attendance tracking, and custom rich-text reporting.
-- **Links:** [Live / Case Study](https://www.mouissi.pro/)
+#### 🇲🇦 `morocco-geo-data` — Moroccan Administrative Dataset Library
+`TypeScript` • `npm Package` • `Structured Data`
+- **Problem:** Developers building Moroccan e-commerce, logistics, and SaaS applications lacked a clean, typed dataset of administrative regions, cities, and neighborhoods.
+- **Solution:** Built and published a lightweight TypeScript-first npm library for instant address validation, form autocomplete, and regional filtering.
+- **Code:** [github.com/MS-brahim/morocco-geo-data](https://github.com/MS-brahim/morocco-geo-data)
 
-#### 🛒 Multi-Tenant E-Commerce SaaS
-`Laravel` • `MySQL` • `Redis` • `REST APIs`
-- **Problem:** Merchants needed isolated storefronts with fast load times without maintaining separate codebases.
-- **Solution:** Architected a multi-store SaaS engine with tenant-level data isolation, customizable storefront APIs, and Redis caching layers for high-concurrency catalog browsing.
-- **Links:** [Live / Case Study](https://www.mouissi.pro/)
+#### 🧾 `invoice-generator` — Automated Business Invoicing Tool
+`TypeScript` • `Next.js` • `PDF Generation`
+- **Problem:** Freelancers and small businesses needed a fast, zero-friction tool to generate clean invoices without bloated accounting software.
+- **Solution:** Developed a typed web application supporting dynamic line-item calculation, tax rules, and instant downloadable PDF invoices.
+- **Code:** [github.com/MS-brahim/invoice-generator](https://github.com/MS-brahim/invoice-generator)
 
-#### 🤖 AI Business Workflow & CRM Automation Engine
-`Node.js` • `TypeScript` • `OpenAI API` • `n8n`
-- **Problem:** Sales and support teams spent hours manually triaging emails, qualifying leads, and updating CRM records.
-- **Solution:** Built an event-driven automation pipeline combining LLM classification with n8n webhooks to synchronize CRM entries, trigger contextual email responses, and log structured analytics.
-- **Links:** [GitHub Repo](#) • [Live Demo](#)
+#### 💸 `MultiSend` — Batch Token Distribution Smart Contract
+`Solidity` • `Web3` • `Gas Optimization`
+- **Problem:** Sending tokens individually across dozens of addresses incurred excessive transaction fees and manual execution overhead.
+- **Solution:** Implemented a Solidity batch-transfer contract enabling single-transaction multi-recipient distributions with input validation.
+- **Code:** [github.com/MS-brahim/MultiSend](https://github.com/MS-brahim/MultiSend)
+
+---
+
+### 🏢 Selected Client & Production Engineering *(Private / NDA)*
+
+*Highlights from commercial platforms engineered for clients and employers:*
+
+- **Multi-Center Training CRM & LMS Platform** (`TypeScript` • `React` • `Node.js` • `PostgreSQL` • `SCORM Cloud`) — Built core CRM modules, SCORM Cloud e-learning playback integration, attendance tracking, and automated contract workflows.
+- **Multi-Tenant E-Commerce SaaS** (`Laravel` • `MySQL` • `Redis` • `REST APIs`) — Contributed to multi-store tenant isolation, storefront API endpoints, and Redis caching layers for high-traffic product catalogs.
+- **AI Business Workflow & CRM Automation** (`Node.js` • `OpenAI API` • `n8n`) — Engineered event-driven webhooks and LLM classification pipelines to sync CRM records and automate client email triage.
 
 ---
 
@@ -57,7 +67,7 @@
 | **Backend** | Node.js, Fastify, Express.js, Laravel, REST APIs, JWT & OAuth |
 | **Databases & Caching** | PostgreSQL (Prisma), MySQL, MongoDB, Redis |
 | **AI & Automation** | OpenAI API, AI Agents, RAG Workflows, n8n, Zapier |
-| **DevOps & Tools** | Docker, Linux, Git, CI/CD |
+| **DevOps & Tools** | Docker, Linux, Git, GitHub Actions, CI/CD |
 
 ---
 
