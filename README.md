@@ -21,8 +21,7 @@
 
 ### 📊 GitHub Stats
 
-![Brahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=MS-brahim&show_icons=true&theme=gruvbox)
-
+![Brahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=MS-brahim&show_icons=true&include_all_commits=true&theme=gruvbox)
 ### 💡 What I Bring to Engineering Teams
 
 - **End-to-End SaaS Delivery:** 5+ years taking B2B and B2C products from database design to production deployment.
