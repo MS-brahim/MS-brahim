@@ -82,3 +82,8 @@
 - 🌐 **Portfolio:** [mouissi.pro](https://www.mouissi.pro/)
 - 💼 **LinkedIn:** [linkedin.com/in/brahimouissi](https://www.linkedin.com/in/brahimouissi/)
 - 📧 **Direct Email:** **brahim7khalil@gmail.com**
+
+### 📊 GitHub Stats
+
+![MS-brahim GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
