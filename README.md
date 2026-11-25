@@ -85,6 +85,4 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Followers](https://img.shields.io/github/followers/MS-brahim?style=for-the-badge)](https://github.com/MS-brahim?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/MS-brahim?affiliations=OWNER&style=for-the-badge)](https://github.com/MS-brahim?tab=repositories)
-[![GitHub Repos](https://img.shields.io/badge/Repositories-Public-blue?style=for-the-badge)](https://github.com/MS-brahim?tab=repositories)
+![Brahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=MS-brahim&show_icons=true&theme=gruvbox)
