@@ -1,0 +1,28 @@
+name: Weekend Activity & Log Update
+
+on:
+  schedule:
+    # Runs at 14:00 UTC every Saturday (6) and Sunday (0)
+    - cron: '0 14 * * 0,6'
+  workflow_dispatch: # Allows manual testing from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Append weekend heartbeat to activity log
+        run: |
+          echo "- $(date -u +'%Y-%m-%d'): Weekend system check & sync" >> ACTIVITY_LOG.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "Brahim MOUISSI"
+          git config --global user.email "brahim7khalil@gmail.com"
+          git add ACTIVITY_LOG.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update weekend activity log" && git push)
