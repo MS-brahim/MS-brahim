@@ -1,0 +1,1 @@
+- 2026-11-25: Weekend system check & sync
